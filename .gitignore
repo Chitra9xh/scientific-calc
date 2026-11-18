@@ -1,0 +1,14 @@
+_local/
+gradlew
+gradlew.bat
+gradle/wrapper/
+.gradle/
+build/
+.idea/
+*.iml
+local.properties
+*.jks
+*.keystore
+*.sh
+*.apk
+*.aab
